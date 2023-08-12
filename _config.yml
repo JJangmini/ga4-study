@@ -30,7 +30,7 @@ url: "main" # the base hostname & protocol for your site, e.g. http://example.co
 github_username: JJangmini
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 # Exclude from processing.
