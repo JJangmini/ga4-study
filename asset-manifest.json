@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ga4-study/static/css/main.e6c13ad2.css",
+    "main.js": "/ga4-study/static/js/main.606fc0e6.js",
+    "static/js/787.209243a0.chunk.js": "/ga4-study/static/js/787.209243a0.chunk.js",
+    "index.html": "/ga4-study/index.html",
+    "main.e6c13ad2.css.map": "/ga4-study/static/css/main.e6c13ad2.css.map",
+    "main.606fc0e6.js.map": "/ga4-study/static/js/main.606fc0e6.js.map",
+    "787.209243a0.chunk.js.map": "/ga4-study/static/js/787.209243a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.606fc0e6.js"
+  ]
+}
